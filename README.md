@@ -6,3 +6,7 @@ Primero instalamos el Nuget
 # System.Data.SQLite
 
 y todas sus dependencias
+
+Se tendra que convertir las fechas al formato para que .net las reconozca
+
+https://www.sqlite.org/lang_datefunc.html
